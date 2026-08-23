@@ -1,0 +1,60 @@
+# Created by https://www.toptal.com/developers/gitignore/api/java,intellij
+# Edit at https://www.toptal.com/developers/gitignore?templates=java,intellij
+
+# IntelliJ project files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# IntelliJ build output
+out/
+
+### Java ###
+
+# Compiled class files
+*.class
+
+# Java archive files
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Log files
+*.log
+
+# Java crash logs
+hs_err_pid*
+replay_pid*
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+### Operating System ###
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+### Temporary and Generated Files ###
+
+*.tmp
+*.temp
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+# End of https://www.toptal.com/developers/gitignore/api/java,intellij

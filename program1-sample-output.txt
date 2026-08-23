@@ -1,0 +1,83 @@
+========================================
+Assignment 1
+Program 1
+Author: Delmas Shipman
+========================================
+
+Sample Run 1
+------------
+
+Enter an integer:
+10
+
+Output: 
+"Library": "java.util.Random",
+"numRands": 10,
+"Mean": 0.366176,
+"Std. Deviation": 0.312088,
+"Min": 0.009107,
+"Max: 0.857038,
+"Library": "Math.Random",
+"numRands": 10,
+"Mean": 0.502451,
+"Std. Deviation": 0.279669,
+"Min": 0.014401,
+"Max: 0.937655,
+"Library": "java.util.concurrent.ThreadLocalRandom",
+"numRands": 10,
+"Mean": 0.529866,
+"Std. Deviation": 0.241972,
+"Min": 0.190894,
+"Max: 0.888927,
+
+Sample Run 2
+------------
+
+Enter an integer:
+100
+
+Output:
+"Library": "java.util.Random",
+"numRands": 100,
+"Mean": 0.510952,
+"Std. Deviation": 0.250025,
+"Min": 0.016444,
+"Max: 0.996670,
+"Library": "Math.Random",
+"numRands": 100,
+"Mean": 0.497671,
+"Std. Deviation": 0.297182,
+"Min": 0.011960,
+"Max: 0.989424,
+"Library": "java.util.concurrent.ThreadLocalRandom",
+"numRands": 100,
+"Mean": 0.497976,
+"Std. Deviation": 0.313024,
+"Min": 0.013579,
+"Max: 0.986927,
+
+Sample Run 3
+------------
+
+Enter an integer:
+1000
+
+Output:
+"Library": "java.util.Random",
+"numRands": 1000,
+"Mean": 0.499842,
+"Std. Deviation": 0.288293,
+"Min": 0.000161,
+"Max: 0.999825,
+"Library": "Math.Random",
+"numRands": 1000,
+"Mean": 0.501225,
+"Std. Deviation": 0.288136,
+"Min": 0.000786,
+"Max: 0.999425,
+"Library": "java.util.concurrent.ThreadLocalRandom",
+"numRands": 1000,
+"Mean": 0.502332,
+"Std. Deviation": 0.289063,
+"Min": 0.000761,
+"Max: 0.999142,

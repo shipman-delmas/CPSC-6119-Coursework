@@ -1,0 +1,38 @@
+========================================
+Assignment 1
+Program 2
+Author: Delmas Shipman
+========================================
+
+Sample Run 1
+------------
+
+Output:
+----------------------------------------------
+Tokens:
+Co	er	es	mp	
+on	k	He	ut	
+ph	ad	Ke	ter	
+Pr	in	r	Ca	
+yb	rd	nd	le	
+la	Cl	ar	oa	
+Um	ock	br	el	
+----------------------------------------------
+Clues:
+Device made to waste ink and paper.
+Turns thoughts to typos.
+Thinks without a brain.
+Two hands, but cannot carry anything
+Only works when raining.
+Paper that reminds you how little time you have.
+Audio device for ignoring people.
+----------------------------------------------
+Answer Key:
+PRINTER
+KEYBOARD
+COMPUTER
+CLOCK
+UMBRELLA
+CALENDAR
+HEADPHONES
+----------------------------------------------
