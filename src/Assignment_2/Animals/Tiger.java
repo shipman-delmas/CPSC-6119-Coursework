@@ -1,0 +1,7 @@
+﻿package Assignment_2.Animals;
+
+import Assignment_2.Families.Feline;
+
+public class Tiger extends Feline
+{
+}
